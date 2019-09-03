@@ -33,7 +33,7 @@
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
-    "@gr2m/pika-plugin-build-web": "^0.6.0-issue-84.1",
+    "@gr2m/pika-plugin-build-web": "^0.6.0-issue-84.2",
     "@pika/pack": "^0.5.0",
     "@pika/plugin-build-node": "^0.6.0",
     "@pika/plugin-bundle-web": "^0.6.0",
